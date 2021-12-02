@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.ms_password_gen{
+    text-align: center;
+    border: 1px solid black;
+    background-color: rgba(0,0,0,.6);
+    margin-top: 20px;
+    height: 50px;
+    width: 100%; 
+    font-family: 'Roboto', sans-serif; 
+    color: white;
+}
+body{
+    background-image: url(171-1710812_forest-wallpaper-4k.jpeg);
+    background-size: cover;
+}
